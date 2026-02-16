@@ -1,3 +1,5 @@
+// Built with Scaffold v0.1.5
+
 "use client";
 
 import { Github, Rocket, Twitter } from "lucide-react";
